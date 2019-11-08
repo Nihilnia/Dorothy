@@ -1,0 +1,6 @@
+D:\NihilV2\ClaraLille\Dorothy\StaticClass_02\bin\Debug\StaticClass_02.exe.config
+D:\NihilV2\ClaraLille\Dorothy\StaticClass_02\bin\Debug\StaticClass_02.exe
+D:\NihilV2\ClaraLille\Dorothy\StaticClass_02\bin\Debug\StaticClass_02.pdb
+D:\NihilV2\ClaraLille\Dorothy\StaticClass_02\obj\Debug\StaticClass_02.csprojAssemblyReference.cache
+D:\NihilV2\ClaraLille\Dorothy\StaticClass_02\obj\Debug\StaticClass_02.exe
+D:\NihilV2\ClaraLille\Dorothy\StaticClass_02\obj\Debug\StaticClass_02.pdb
