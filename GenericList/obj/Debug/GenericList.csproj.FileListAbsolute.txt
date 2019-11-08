@@ -1,0 +1,6 @@
+D:\NihilV2\ClaraLille\Dorothy\GenericList\bin\Debug\GenericList.exe.config
+D:\NihilV2\ClaraLille\Dorothy\GenericList\bin\Debug\GenericList.exe
+D:\NihilV2\ClaraLille\Dorothy\GenericList\bin\Debug\GenericList.pdb
+D:\NihilV2\ClaraLille\Dorothy\GenericList\obj\Debug\GenericList.csprojAssemblyReference.cache
+D:\NihilV2\ClaraLille\Dorothy\GenericList\obj\Debug\GenericList.exe
+D:\NihilV2\ClaraLille\Dorothy\GenericList\obj\Debug\GenericList.pdb
